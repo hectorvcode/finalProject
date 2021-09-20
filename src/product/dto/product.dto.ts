@@ -1,5 +1,3 @@
-//55:52
-
 import { IManufactureDetails } from "../interfaces/manufacture_detail.interface";
 import { IShipping_Details } from "../interfaces/shipping_details.interface";
 
