@@ -1,0 +1,24 @@
+{
+    "id":"hector@email.com",
+    "fistName":"Juan",
+    "lastName":"Poveda",
+    "emailVerified":true,
+    "idCard":{
+        "type":"cedula",
+        "idNumber":"80058158"
+    },
+    "hashedPassword":"asdfasdfasdfsadf",
+    "billingAddress":{
+        "country":"Colombia",
+        "province":"Antioquia",
+        "city":"Medellin",
+        "street1":"Carrera 40 #5-28",
+        "street2":"Calle 13 #57-63"
+    },
+    "shippingAddress":{
+        "country":"Colombia",
+        "province":"Antioquia",
+        "city":"Medellin",
+        "street1":"Carrera 46 1B-05"
+    }
+}

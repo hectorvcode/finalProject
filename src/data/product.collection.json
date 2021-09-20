@@ -1,0 +1,31 @@
+{
+    "item": "Teclado gamer Logitech Serie G G513 QWERTY GX ",
+    "description": "Este teclado Logitech de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto, y hacer que tus jugadas alcancen otro nivel. Distinción a todo color: Su retroiluminación da un toque diferente a tu equipo y resalta su composición cuando es utilizado en espacios poco iluminados. Tecnología antighosting: Este dispositivo tiene teclas antighosting. Esta cualidad es indispensable si requieres de un uso intensivo del periférico. Gracias a esto podrás evitar fallas al tocar varias teclas al mismo tiempo.",
+    "price":150,
+    "quantity":35,
+    "createdAt": "2016-01-01T00:00:00.000Z",
+
+    "category":[
+        "bestseller",
+        "accesories"
+    ],
+    "images":[
+        "items/keypadG513up.jpg",
+        "items/keypadG513side1.jpg",
+        "items/keypadG513side2.jpg"
+    ],
+    "manufacture_details":{
+        "model":"513 QWERTY GX Brown Tactile",
+        "brand": "Logitech"
+    },
+    "color": [
+        "Carbon",
+        "Silver"
+    ],
+    "shipping_details":{
+        "weight":240,
+        "width":44.5,
+        "height":13.2,
+        "depth":35.5
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id":1,
+    "userId": "hector@email.com",
+    "type":"credit",
+    "status":"verified",
+    "card":{
+        "type":"visa",
+        "lastFourNumbers":"1231",
+        "expiryMonth":12,
+        "expiryYear":2023,
+        "cvvVerified":true
+    }
+}
