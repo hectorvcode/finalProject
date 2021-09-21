@@ -22,9 +22,6 @@ async function bootstrap() {
   });
 
   //await app.listen(3000);
-  app.enableCors();
-  const PORT = parseInt(process.env.PORT, 10) || 3000;
-  Logger.log(`app running on: ${PORT}`);
-  await app.listen(PORT);
+  await app.listen(process.env.PORT || 3000);
 }
 bootstrap();
