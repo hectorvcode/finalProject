@@ -5,6 +5,7 @@ import { AppModule } from './app.module';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
+  const PORT = parseInt(process.env.PORT,10) || 3000;
 
   const options = new DocumentBuilder()
   .setTitle('E-commerce API')
@@ -22,6 +23,7 @@ async function bootstrap() {
   });
 
   //await app.listen(3000);
-  await app.listen(process.env.PORT || 3000);
+  Logger.log(`App running on: ${PORT}`);
+  await app.listen(PORT);
 }
 bootstrap();
