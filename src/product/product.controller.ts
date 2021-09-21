@@ -5,54 +5,32 @@ import { ProductService } from './product.service';
 @Controller('product')
 export class ProductController {
 
-    constructor(private productService: ProductService){}
+    constructor(private readonly productService: ProductService){}
 
     @Post('create')
-    async createPost(@Res() res, @Body() createProductDTO: CreateProductDTO){
+    async createPost(@Body() createProductDTO: CreateProductDTO){
         //console.log(createProductDTO);
-        const product = await this.productService.createProduct(createProductDTO);
-        return res.status(HttpStatus.OK).json({
-            message: 'Product Succesfully Created',
-            product //product: product
-        });
+        return await this.productService.createProduct(createProductDTO);
     }
 
     @Get()
-    async getProducts(@Res() res) {
-        const products = await this.productService.getProducts();
-        res.status(HttpStatus.OK).json({
-            products //products: products
-        })
+    async getProducts() {
+        return await this.productService.getProducts();
     }
 
     @Get(':productID')
-    async getProduct(@Res() res, @Param('productID') productID){
-        const product = await this.productService.getProduct(productID);
-        if(!product) throw new NotFoundException('Product does not exist');
-        return res.status(HttpStatus.OK).json(product);
+    async getProduct(@Param('productID') productID){
+        return await this.productService.getProduct(productID);
+        //if(!product) throw new NotFoundException('Product does not exist');
     }
 
     @Delete('delete')
-    async deleteProduct(@Res() res, @Query('productID') productID){
-        const productDeleted = await this.productService.deleteProduct(productID);
-        if(!productDeleted) throw new NotFoundException('Product does not exist');
-        return res.status(HttpStatus.OK).json({
-            message: 'Product Succesfully Deleted',
-            productDeleted
-        });
+    async deleteProduct(@Query('productID') productID){
+        return await this.productService.deleteProduct(productID);
     }
 
     @Put('update')
-    async updateProduct(
-        @Res() res, 
-        @Body() CreateProductDTO:CreateProductDTO,
-        @Query('productID') productID){
-            const updatedProduct = await this.productService
-            .updateProduct(productID, CreateProductDTO);
-            if(!updatedProduct) throw new NotFoundException('Product does not exist');
-            return res.status(HttpStatus.OK).json({
-                message: 'Product Updated Successfully',
-                updatedProduct
-            })
+    async updateProduct(@Body() createProductDTO:CreateProductDTO, @Query('productID') productID){
+            return await this.productService.updateProduct(productID, createProductDTO);
         }
 }
