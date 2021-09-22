@@ -9,8 +9,7 @@ export class ProductService {
 
     constructor(@InjectModel('Product') private readonly productModel: Model<IProduct>){}
 
-    async getProducts(): Promise<IProduct[]>{
-
+    async getProducts() {
         return await this.productModel.find();
 
     }
