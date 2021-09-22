@@ -9,9 +9,9 @@ export class ProductService {
 
     constructor(@InjectModel('Product') private readonly productModel: Model<IProduct>){}
 
-    async getProducts() {
-        return await this.productModel.find();
-
+    async getProducts(): Promise<IProduct[]>{
+        const products = await this.productModel.find();
+        return products;
     }
 
     async getProduct(productID:string): Promise<IProduct>{
