@@ -15,9 +15,6 @@ export class CreateProductDTO {
     @ApiProperty({ type:Number, description:'Stock of the product' })
     quantity: number;
     
-    @ApiProperty({ type:Date, description:'Product creation date, automatic' })
-    createdAt: Date;
-    
     @ApiProperty({ type:[String], description:'Categories to clasify products' })
     category:string[];
     
