@@ -1,7 +1,7 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
-import { CreateProductDTO } from './dto/product.dto';
+import { CreateProductDTO } from './dto/create-product.dto';
 import { IProduct } from './interfaces/product.interface';
 
 @Injectable()
@@ -10,12 +10,12 @@ export class ProductService {
     constructor(@InjectModel('Product') private readonly productModel: Model<IProduct>){}
 
     async getProducts(): Promise<IProduct[]>{
-        const products = await this.productModel.find();
+        const products = await this.productModel.find({},{'__v':0});
         return products;
     }
 
     async getProduct(productID:string): Promise<IProduct>{
-        const product = await this.productModel.findById(productID);
+        const product = await this.productModel.findById(productID,{'__v':0});
         if(!product) throw new NotFoundException('Product does not exist');
         return product;
     }
