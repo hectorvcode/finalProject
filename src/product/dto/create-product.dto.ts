@@ -1,7 +1,7 @@
 import { ApiProperty } from "@nestjs/swagger";
 import { ArrayMinSize, IsArray, IsInt, IsString, ValidateNested } from "class-validator";
 import { Type, Type as ValidateType } from 'class-transformer';
-import { ManufactureDetailsDTO } from "./manufacture-details.dto";
+import { ManufactureDetailsDto } from "./manufacture-details.dto";
 import { ShippingDetailsDto } from "./shipping-details.dto";
 
 export class CreateProductDTO {
@@ -42,7 +42,7 @@ export class CreateProductDTO {
 
     @ApiProperty({ description:'Product model and brand' })
     @ValidateNested({ each:true })
-    manufacture_details: ManufactureDetailsDTO;
+    manufacture_details: ManufactureDetailsDto;
     
     @ApiProperty({ description:'Product Dimensions' })
     @ValidateNested({ each:true })

@@ -1,8 +1,7 @@
 {
-    "userId":"hector@email.com",
     "paymentStatus":"processed",
     "status":"delivered",
-    "items":[
+    "orderedItems":[
         {
             "id":1,
             "quantity":1,
@@ -11,19 +10,5 @@
             "preTax":470000,
             "afterTax":559300
         }
-    ],
-    "billingAddress":{
-        "country":"Colombia",
-        "province":"Antioquia",
-        "city":"Medellin",
-        "street1":"Carrera 40 #5-28",
-        "street2":"Calle 13 #57-63"
-    },
-    "shippingAddress":{
-        "country":"Colombia",
-        "province":"Antioquia",
-        "city":"Medellin",
-        "street1":"Carrera 46 1B-05"
-    }
+    ]
 }
-

@@ -1,7 +1,7 @@
 import { Prop, raw, Schema, SchemaFactory } from "@nestjs/mongoose";
 import { Document } from 'mongoose';
 import { IManufactureDetails } from "../interfaces/manufacture_detail.interface";
-import { IShipping_Details } from "../interfaces/shipping_details.interface";
+import { IShippingDetails } from "../interfaces/shipping_details.interface";
 
 export type ProductDocument = Product & Document;
 
@@ -72,7 +72,7 @@ export class Product {
             depth: { type: Number, required: true }
         })
     )
-    shipping_details: IShipping_Details;
+    shipping_details: IShippingDetails;
 }
 
 export const ProductSchema = SchemaFactory.createForClass(Product);

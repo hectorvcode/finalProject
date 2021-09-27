@@ -1,4 +1,4 @@
-export interface IShipping_Details {
+export interface IShippingDetails {
     weight: number;
     width: number;
     height: number;

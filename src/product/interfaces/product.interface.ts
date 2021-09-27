@@ -1,5 +1,5 @@
 import { IManufactureDetails } from "./manufacture_detail.interface";
-import { IShipping_Details } from "./shipping_details.interface";
+import { IShippingDetails } from "./shipping_details.interface";
 import { Document } from 'mongoose';
 
 export interface IProduct extends Document {
@@ -12,5 +12,5 @@ export interface IProduct extends Document {
     images: string[];
     manufacture_details: IManufactureDetails;
     color: string[];
-    shipping_details: IShipping_Details;
+    shipping_details: IShippingDetails;
 }

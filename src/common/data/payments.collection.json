@@ -1,9 +1,7 @@
 {
-    "id":1,
-    "userId": "hector@email.com",
-    "type":"credit",
-    "status":"verified",
-    "card":{
+    "paymentType":"credit",
+    "paymentStatus":"verified",
+    "creditCard":{
         "type":"visa",
         "lastFourNumbers":"1231",
         "expiryMonth":12,

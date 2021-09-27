@@ -4,7 +4,7 @@ import { IsString } from "class-validator";
 import { IManufactureDetails } from "../interfaces/manufacture_detail.interface";
 
 
-export class ManufactureDetailsDTO implements IManufactureDetails {
+export class ManufactureDetailsDto implements IManufactureDetails {
     
     @Type( ()=>String ) 
     @ApiProperty({ type:String, description:'This is the product\'s model' })
