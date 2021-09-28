@@ -1,8 +1,10 @@
 {
+    "userEmail":"hector@email.com",
     "paymentStatus":"processed",
     "status":"delivered",
     "orderedItems":[
         {
+            "productId":"614e726bff5c9fc1d6860e25",
             "id":1,
             "quantity":1,
             "price": 470000,
