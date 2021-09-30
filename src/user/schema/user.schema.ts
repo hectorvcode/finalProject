@@ -3,6 +3,9 @@ import { Document } from 'mongoose';
 import { IBillingAddress } from '../interfaces/billing-address.interface';
 import { IIdCard } from '../interfaces/id-card.interface';
 import { IShippingAddress } from '../interfaces/shipping-address.interface';
+import { BillingAddress, BillingAddressSchema } from './billing-address.schema';
+import { IdCard, IdCardSchema } from './idcard.schema';
+import { ShippingAddress, ShippingAddressSchema } from './shipping-address.schema';
 
 export type UserDocument = User & Document;
 
@@ -21,37 +24,17 @@ export class User {
     @Prop({ type: Boolean, required: true })
     emailVerified: boolean;
 
-    @Prop(
-        raw({
-            type: { type: String, required: true },
-            idNumber: { type: Number, required: true }
-        })
-    )
-    idCard: IIdCard;
+    @Prop({ type: IdCardSchema })
+    idCard: IdCard;
 
     @Prop({ type: String, required: true })
     hashedPassword: string;
 
-    @Prop(
-        raw({
-            country: { type: String, required: true },
-            province: { type: String, required: true },
-            city: { type: String, required: true },
-            street1: { type: String, required: true },
-            street2: { type: String }
-        })
-    )
-    billingAddress: IBillingAddress;
+    @Prop({ type:BillingAddressSchema })
+    billingAddress: BillingAddress;
 
-    @Prop(
-        raw({
-            country: { type: String, required: true },
-            province: { type: String, required: true },
-            city: { type: String, required: true },
-            street1: { type: String, required: true }
-        })
-    )
-    shippingAddress: IShippingAddress;
+    @Prop({ type:ShippingAddressSchema})
+    shippingAddress: ShippingAddress;
 }
 
 export const UserSchema = SchemaFactory.createForClass(User);
