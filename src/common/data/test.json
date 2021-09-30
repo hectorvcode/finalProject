@@ -1,0 +1,1409 @@
+[
+    {
+      "_id": "614e726bff5c9fc1d6860e25",
+      "item": "Developer t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 110000,
+      "quantity": 55,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81toLveHUSL._UL1500_.jpg?fifu"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bda",
+        "model": "Developer t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "Light purple"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bdb",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T00:50:51.370Z",
+      "updatedAt": "2021-09-25T16:23:20.793Z"
+    },
+    {
+      "_id": "614e72d4ff5c9fc1d6860e2a",
+      "item": "Developer t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 96500,
+      "quantity": 50,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://i.etsystatic.com/16149284/r/il/ca2a6e/1786517394/il_fullxfull.1786517394_d9hd.jpg"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bdc",
+        "model": "Developer t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "purple"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bdd",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T00:52:36.516Z"
+    },
+    {
+      "_id": "614e7376ff5c9fc1d6860e2e",
+      "item": "Developer t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 90200,
+      "quantity": 50,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/91IM87eeuCL._CLa%7C2140%2C2000%7C61NuZLb810L.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bde",
+        "model": "Developer t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "Black"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bdf",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T00:55:18.132Z"
+    },
+    {
+      "_id": "614e744cff5c9fc1d6860e33",
+      "item": "Vue t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 10550,
+      "quantity": 63,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/A13usaonutL._CLa%7C2140%2C2000%7C81UV7r4ZfzL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50be0",
+        "model": "Vue t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "Dark blue"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50be1",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T00:58:52.281Z"
+    },
+    {
+      "_id": "614e747aff5c9fc1d6860e35",
+      "item": "Vue t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 101550,
+      "quantity": 63,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0528/4148/0360/products/unisex-premium-t-shirt-black-front-601bf2c113c70_1800x1800.jpg?v=1612444368"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50be2",
+        "model": "Vue t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "Black"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50be3",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T00:59:38.312Z"
+    },
+    {
+      "_id": "614e749dff5c9fc1d6860e37",
+      "item": "Vue t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 97900,
+      "quantity": 80,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/A1ntnF3PJOL._CLa%7C2140%2C2000%7C81cD41q%2BLML.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50be4",
+        "model": "Vue t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "White"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50be5",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T01:00:13.651Z"
+    },
+    {
+      "_id": "614e7501ff5c9fc1d6860e3b",
+      "item": "React t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 110000,
+      "quantity": 80,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://merchshop.in/wp-content/uploads/2019/10/React-Js-Javascript-t-shirts-white.jpg"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50be6",
+        "model": "React t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "White"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50be7",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T01:01:53.665Z"
+    },
+    {
+      "_id": "614e751fff5c9fc1d6860e3d",
+      "item": "React t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 110000,
+      "quantity": 80,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://ae01.alicdn.com/kf/H9bd9407968264d37b381e47ab0265247X/ReactJS-JavaScript-Programmer-T-Shirt.jpg_Q90.jpg_.webp"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50be8",
+        "model": "React t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "White"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50be9",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T01:02:23.917Z"
+    },
+    {
+      "_id": "614e752eff5c9fc1d6860e3f",
+      "item": "React t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 110000,
+      "quantity": 80,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://tiendadev.com.co/static/media/black.08bebdbd.jpg"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bea",
+        "model": "React t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "White"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50beb",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T01:02:38.273Z"
+    },
+    {
+      "_id": "614e7611ff5c9fc1d6860e45",
+      "item": "Angular t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 105050,
+      "quantity": 80,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "http://www.geekrepublic.co.za/wp-content/uploads/2018/12/angular-grey-tshirt.jpg"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bec",
+        "model": "Angular t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "Grey"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bed",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T01:06:25.932Z"
+    },
+    {
+      "_id": "614e7658ff5c9fc1d6860e4a",
+      "item": "Angular t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 105050,
+      "quantity": 80,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0528/4148/0360/products/unisex-premium-t-shirt-dark-grey-heather-front-601befd768218_1800x1800.jpg?v=1612443631"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bee",
+        "model": "Angular t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "Black"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bef",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T01:07:36.416Z"
+    },
+    {
+      "_id": "614e766cff5c9fc1d6860e4c",
+      "item": "Angular t-shirt",
+      "description": "High quality textile vinyl print. * Material that is soft on the skin, resistant and of excellent quality.",
+      "price": 105050,
+      "quantity": 80,
+      "category": [
+        "t-shirt"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/A1vJUKBjc2L._CLa%7C2140%2C2000%7C71xp3dAjQLL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bf0",
+        "model": "Angular t-shirt",
+        "brand": "BSL"
+      },
+      "color": [
+        "Purple"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bf1",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T01:07:56.685Z"
+    },
+    {
+      "_id": "614f282908727807b7a342ad",
+      "item": "Elemento Prueba",
+      "description": "Silla altamente acondicionable",
+      "price": 715,
+      "quantity": 55,
+      "category": [],
+      "images": [
+        "items/keypadG513up.jpg"
+      ],
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bf2",
+        "model": "Xultra",
+        "brand": "Vima"
+      },
+      "color": [
+        "Carbon",
+        "Red"
+      ],
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bf3",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "createdAt": "2021-09-25T13:46:17.279Z"
+    },
+    {
+      "_id": "614ff786cd37e307f4fff690",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bf4",
+        "weight": 40,
+        "width": 40,
+        "height": 10,
+        "depth": 5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bf5",
+        "model": "K552",
+        "brand": "Red Dragon"
+      },
+      "color": [
+        "Black rgb"
+      ],
+      "images": [
+        "https://i.ibb.co/pPVVb4w/13-1.jpg"
+      ],
+      "category": [
+        "keyboard",
+        "bestseller"
+      ],
+      "quantity": 50,
+      "price": 117000,
+      "description": "Tenkeyless compact mechanical gaming keyboard Redragon k552 tkl small compact with dust proof mechanical switches cherry mx red equivalent Linear switches quiet click sound fast action with minimal resistance without a tactile bump feel",
+      "item": "Red Dragon k552",
+      "createdAt": "2021-09-26T04:31:02.938Z",
+      "updatedAt": "2021-09-26T04:31:02.938Z"
+    },
+    {
+      "_id": "614ffb0dcd37e307f4fff693",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bf6",
+        "weight": 530,
+        "width": 313,
+        "height": 104,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bf7",
+        "model": "K6",
+        "brand": "Keychron"
+      },
+      "color": [
+        "Gray rgb"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/61TVxXng7OL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard",
+        "bestseller"
+      ],
+      "quantity": 35,
+      "price": 275000,
+      "description": "The Keychron K6 is a compact 65% layout white backlight Bluetooth wireless mechanical keyboard made for Mac and Windows. The K6 is crafted to maximize your workspace and enhance productivity.",
+      "item": "Keychron",
+      "createdAt": "2021-09-26T04:46:05.607Z",
+      "updatedAt": "2021-09-26T04:46:05.607Z"
+    },
+    {
+      "_id": "614ffc7fcd37e307f4fff695",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bf8",
+        "weight": 540,
+        "width": 320,
+        "height": 107,
+        "depth": 11
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bf9",
+        "model": "C1",
+        "brand": "Keychron"
+      },
+      "color": [
+        "black and white"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/714WHkVdRWL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 30,
+      "price": 195000,
+      "description": "Keychron C1, a tenkeyless (87 keys) white backlight USB Type-C wired mechanical keyboard made for Mac and Windows. The C1 is crafted to maximize your productivity and exceptional typing experience.",
+      "item": "Keychron",
+      "createdAt": "2021-09-26T04:52:15.943Z",
+      "updatedAt": "2021-09-26T04:52:15.943Z"
+    },
+    {
+      "_id": "614ffd17cd37e307f4fff697",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bfa",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bfb",
+        "model": "12095BK",
+        "brand": "Furinno"
+      },
+      "color": [
+        "Grey"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/812MF7dfmPL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "desktop"
+      ],
+      "quantity": 70,
+      "price": 207182,
+      "description": "Simple and elegant design but functional and suitable for any room.",
+      "item": "Furinno 12095BK",
+      "createdAt": "2021-09-26T04:54:47.396Z",
+      "updatedAt": "2021-09-26T04:54:47.396Z"
+    },
+    {
+      "_id": "614ffd66cd37e307f4fff699",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bfc",
+        "weight": 520,
+        "width": 300,
+        "height": 108,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bfd",
+        "model": "TKL",
+        "brand": "SHAVA"
+      },
+      "color": [
+        "black rgb"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71PQoTqoelL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 28,
+      "price": 120000,
+      "description": "【Rainbow LED Backlit Modes】Shava backlit keyboard is equipped with double-shot injection molded keycaps, which offers crystal clear uniform backlight and ensures markings does not come off. Features rainbow colors, multiple lighting modes, 5 backlight brightness levels, 5 breathing speed, 2 special backlit designed for RTS and FPS games, designed for gamers. The keys are NOT individual RGB but each zone is a different color of red, yellow, green, blue, purple which cannot be changed.",
+      "item": "SHAVA TKL",
+      "createdAt": "2021-09-26T04:56:06.988Z",
+      "updatedAt": "2021-09-26T04:56:06.988Z"
+    },
+    {
+      "_id": "614ffe39cd37e307f4fff69c",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50bfe",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50bff",
+        "model": "Mobili",
+        "brand": "Furinno"
+      },
+      "color": [
+        "Grey"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71UGwtzqwvL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "desktop"
+      ],
+      "quantity": 30,
+      "price": 471390,
+      "description": "The Techni Mobili Classy Desk has a classy design of an expansive contoured desktop shape, and can be used as a computer workstation or as a drafting table. The under table side shelf and three drawers provide optimal storage.",
+      "item": "Techni Mobili",
+      "createdAt": "2021-09-26T04:59:37.416Z",
+      "updatedAt": "2021-09-26T04:59:37.416Z"
+    },
+    {
+      "_id": "614fff09cd37e307f4fff69e",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c00",
+        "weight": 510,
+        "width": 305,
+        "height": 107,
+        "depth": 11
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c01",
+        "model": "DK63",
+        "brand": "DIERYA"
+      },
+      "color": [
+        "black rgb"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/61fWEf6iXFL._AC_SL1200_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 32,
+      "price": 190000,
+      "description": "MULTI-DEVICE WIRELESS BLUETOOTH KEYBOARD – DIERYA wireless Bluetooth keyboard supports up to three bluetooth devices simultaneously and easily switch between them. Work well with Windows 2000/xp/win7/8/10, iOS, Android 4.4 at least, Mac operating systems and compatible with iPad Pro/Air/mini, iPhone 6S/7/8/X, Galaxy Tab, Android tablets and more devices",
+      "item": "DIERYA DK63",
+      "createdAt": "2021-09-26T05:03:05.400Z",
+      "updatedAt": "2021-09-26T05:03:05.400Z"
+    },
+    {
+      "_id": "614fff0acd37e307f4fff6a0",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c02",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c03",
+        "model": "Eco",
+        "brand": "S"
+      },
+      "color": [
+        "Brown"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/819270LsuZS._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "desktop"
+      ],
+      "quantity": 40,
+      "price": 302450,
+      "description": "MULTIFUNCTIONAL STORAGE DESIGN - The additional storage bag will help organize your home or office workspace more efficiently. A versatile hook can be used to hang your headphones, bag and other useful devices.",
+      "item": "S-Eco",
+      "createdAt": "2021-09-26T05:03:06.885Z",
+      "updatedAt": "2021-09-26T05:03:06.885Z"
+    },
+    {
+      "_id": "61500071cd37e307f4fff6a2",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c04",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c05",
+        "model": "L",
+        "brand": "SHW"
+      },
+      "color": [
+        "Dark Brown"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/719o8Wy6sTL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "desktop"
+      ],
+      "quantity": 50,
+      "price": 302450,
+      "description": "Space-saving L-shaped corner computer desk in home office, bedroom",
+      "item": "SHW",
+      "createdAt": "2021-09-26T05:09:05.744Z",
+      "updatedAt": "2021-09-26T05:09:05.744Z"
+    },
+    {
+      "_id": "615000d5cd37e307f4fff6a4",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c06",
+        "weight": 501,
+        "width": 303,
+        "height": 101,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c07",
+        "model": "K630",
+        "brand": "Redragon"
+      },
+      "color": [
+        "white rgb"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/61uR4ZtFcEL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 25,
+      "price": 185000,
+      "description": "60% Layout In Wired: Brand New Redragon 60% design in wired only mode due to popular demand. NKRO 61 keys for ultra-compact and minimalistic design, frees up precious desk space for less clutter.",
+      "item": "DIERYA DK63",
+      "createdAt": "2021-09-26T05:10:45.498Z",
+      "updatedAt": "2021-09-26T05:10:45.498Z"
+    },
+    {
+      "_id": "61500139cd37e307f4fff6a6",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c08",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c09",
+        "model": "L",
+        "brand": "Teraves"
+      },
+      "color": [
+        "Beige"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71hEe98ZgbS._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "desktop"
+      ],
+      "quantity": 50,
+      "price": 357280,
+      "description": "Space-saving L-shaped corner computer desk in home office, bedroom",
+      "item": "Teraves",
+      "createdAt": "2021-09-26T05:12:25.881Z",
+      "updatedAt": "2021-09-26T05:12:25.881Z"
+    },
+    {
+      "_id": "615001b3cd37e307f4fff6a9",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c0a",
+        "weight": 504,
+        "width": 307,
+        "height": 104,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c0b",
+        "model": "K614",
+        "brand": "Redragon"
+      },
+      "color": [
+        "black rgb"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/61rwIUPXGyL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 30,
+      "price": 185000,
+      "description": "Redragon Upgraded-Thin: Anivia featuring a brand new slim design with low profile quiet red switches (30% reduced height to 11mm), ultra-thin keycaps (50% lower to 4mm) and 8.5 mm lite-thin board.",
+      "item": "DIERYA DK63",
+      "createdAt": "2021-09-26T05:14:27.901Z",
+      "updatedAt": "2021-09-26T05:14:27.901Z"
+    },
+    {
+      "_id": "615001fbcd37e307f4fff6ab",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c0c",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c0d",
+        "model": "L",
+        "brand": "Coleshome"
+      },
+      "color": [
+        "Dark Brown"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/712kXeI2bzS._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "desktop",
+        "bestseller"
+      ],
+      "quantity": 40,
+      "price": 268490,
+      "description": "LARGE SPACE WITH L-SHAPE DESIGN - Made of a stylish wide desk with an attached monitor shelf. You'll have plenty of surface space for writing, computer work, and other home office activities. Extra wide detachable monitor shelf gives you an extra layer of storage space, plenty of room for dual / trio monitors.",
+      "item": "Coleshome",
+      "createdAt": "2021-09-26T05:15:39.935Z",
+      "updatedAt": "2021-09-26T05:15:39.935Z"
+    },
+    {
+      "_id": "615002cccd37e307f4fff6af",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c0e",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c0f",
+        "model": "Specialties 70",
+        "brand": "Monarch"
+      },
+      "color": [
+        "White"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/81Dq4+rMluL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "desktop",
+        "bestseller"
+      ],
+      "quantity": 15,
+      "price": 2350960,
+      "description": "Sleek and contemporary, this extra-long L-shaped corner desk is the perfect combination of function, durability and design in a modern way. Finished in a stylish concrete-look gray top with white on all sides, this workstation with the thick floating tops and sleek U-shaped metal legs adds pizzazz with practicality to any home office.",
+      "item": "Monarch Specialties 70",
+      "createdAt": "2021-09-26T05:19:08.753Z",
+      "updatedAt": "2021-09-26T05:19:08.753Z"
+    },
+    {
+      "_id": "615002ffcd37e307f4fff6b1",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c10",
+        "weight": 500,
+        "width": 300,
+        "height": 100,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c11",
+        "model": "Periboard-429",
+        "brand": "Perixx"
+      },
+      "color": [
+        "black"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71cOgbQyFtL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 20,
+      "price": 117000,
+      "description": "MINI AND DURABLE DESIGN - Mini keyboard design without number pad section that save desk space and comfortable to use",
+      "item": "Perixx PERIBOARD-429",
+      "createdAt": "2021-09-26T05:19:59.302Z",
+      "updatedAt": "2021-09-26T05:19:59.302Z"
+    },
+    {
+      "_id": "61500454cd37e307f4fff6b3",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c12",
+        "weight": 38,
+        "width": 72,
+        "height": 8,
+        "depth": 10
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c13",
+        "model": "Couple",
+        "brand": "Tribesigns"
+      },
+      "color": [
+        "Black"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/S/aplus-media/sc/26427928-99ca-47dd-b629-814ba1543a22.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      ],
+      "category": [
+        "desktop"
+      ],
+      "quantity": 15,
+      "price": 1355560,
+      "description": "Large double desk for two: office, school or home, a desk for 2 can make all the difference in your space and resource allocation. You don't even have to sacrifice style.",
+      "item": "Tribesigns couple",
+      "createdAt": "2021-09-26T05:25:40.405Z",
+      "updatedAt": "2021-09-26T05:25:40.405Z"
+    },
+    {
+      "_id": "6150046acd37e307f4fff6b5",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c14",
+        "weight": 508,
+        "width": 310,
+        "height": 104,
+        "depth": 11
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c15",
+        "model": "K582",
+        "brand": "Redragon"
+      },
+      "color": [
+        "black rgb"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71zNBLpvw2L._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 40,
+      "price": 170000,
+      "description": "Professional Red Switches: Redragon K582 gaming keyboard is equipped with pluggable Redragon red switches, which are linear, top-to-bottom switches. These switches require less force to press down and the keys feel smoother and easier to use. No tactile but responsive. A great choice for work and play!",
+      "item": "Redragon K582",
+      "createdAt": "2021-09-26T05:26:02.453Z",
+      "updatedAt": "2021-09-26T05:26:02.453Z"
+    },
+    {
+      "_id": "61500512cd37e307f4fff6b7",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c16",
+        "weight": 508,
+        "width": 309,
+        "height": 105,
+        "depth": 12
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c17",
+        "model": "K556",
+        "brand": "Redragon"
+      },
+      "color": [
+        "black rgb"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71lDpm1GOJL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 45,
+      "price": 240000,
+      "description": "Mechanical Brown Switches: Offering the satisfying tactile typing experience, also being ever so slightly quieter, fitting for office or gaming use. And you will get 8 spare switches as a gift.",
+      "item": "Redragon K556",
+      "createdAt": "2021-09-26T05:28:50.035Z",
+      "updatedAt": "2021-09-26T05:28:50.035Z"
+    },
+    {
+      "_id": "615005f0cd37e307f4fff6b9",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c18",
+        "weight": 510,
+        "width": 309,
+        "height": 105,
+        "depth": 12
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c19",
+        "model": "K8",
+        "brand": "Keychron"
+      },
+      "color": [
+        "Gateron Red Switch"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/61xLqHl2syL._AC_SL1200_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 29,
+      "price": 372000,
+      "description": "A tenkeyless layout (87-key) RGB backlight Gateron switch Bluetooth mechanical keyboard with CNC processed aluminum frame. The K8 is crafted to maximize your workspace and enhance productivity.",
+      "item": "Keychron K8",
+      "createdAt": "2021-09-26T05:32:32.954Z",
+      "updatedAt": "2021-09-26T05:32:32.954Z"
+    },
+    {
+      "_id": "61500791cd37e307f4fff6bb",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c1a",
+        "weight": 520,
+        "width": 320,
+        "height": 110,
+        "depth": 13
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c1b",
+        "model": "C989M",
+        "brand": "Cloud Nine"
+      },
+      "color": [
+        "RGB MX Brown"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71xv6uBOZ3L._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard"
+      ],
+      "quantity": 12,
+      "price": 600000,
+      "description": "SPLIT KEYBOARD DESIGN - Helps ELIMINATE Wrist and Shoulder PAIN while you type. By keeping your hands and arms properly aligned, this ergo keyboard helps provide PAIN-FREE typing for 8+ hours day.",
+      "item": "Cloud Nine C989M",
+      "createdAt": "2021-09-26T05:39:29.337Z",
+      "updatedAt": "2021-09-26T05:39:29.337Z"
+    },
+    {
+      "_id": "6150845290657edba54d2d0a",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c1c",
+        "weight": 15,
+        "width": 25,
+        "height": 27,
+        "depth": 30
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c1d",
+        "model": "test model",
+        "brand": "test brand"
+      },
+      "color": [
+        "red",
+        "carbon"
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81toLveHUSL._UL1500_.jpg?fifu"
+      ],
+      "category": [
+        "best-seller"
+      ],
+      "quantity": 45,
+      "price": 150,
+      "description": "High quality test item.",
+      "item": "test item",
+      "createdAt": "2021-09-26T14:31:46.660Z",
+      "updatedAt": "2021-09-26T14:31:46.660Z"
+    },
+    {
+      "_id": "6150845490657edba54d2d0c",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c1e",
+        "weight": 15,
+        "width": 25,
+        "height": 27,
+        "depth": 30
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c1f",
+        "model": "test model",
+        "brand": "test brand"
+      },
+      "color": [
+        "red",
+        "carbon"
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81toLveHUSL._UL1500_.jpg?fifu"
+      ],
+      "category": [
+        "best-seller"
+      ],
+      "quantity": 45,
+      "price": 150,
+      "description": "High quality test item.",
+      "item": "test item",
+      "createdAt": "2021-09-26T14:31:48.750Z",
+      "updatedAt": "2021-09-26T14:31:48.750Z"
+    },
+    {
+      "_id": "6150a4c5a6655ab8fa98a607",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c20",
+        "weight": 15,
+        "width": 25,
+        "height": 27,
+        "depth": 30
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c21",
+        "model": "test model",
+        "brand": "test brand"
+      },
+      "color": [
+        "red",
+        "carbon"
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81toLveHUSL._UL1500_.jpg?fifu"
+      ],
+      "category": [
+        "best-seller"
+      ],
+      "quantity": 45,
+      "price": 150,
+      "description": "High quality test item.",
+      "item": "Test super test t-shirt",
+      "createdAt": "2021-09-26T16:50:13.108Z",
+      "updatedAt": "2021-09-30T12:08:48.657Z"
+    },
+    {
+      "_id": "6150a4c6a6655ab8fa98a609",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c22",
+        "weight": 15,
+        "width": 25,
+        "height": 27,
+        "depth": 30
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c23",
+        "model": "test model",
+        "brand": "test brand"
+      },
+      "color": [
+        "red",
+        "carbon"
+      ],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81toLveHUSL._UL1500_.jpg?fifu"
+      ],
+      "category": [
+        "best-seller"
+      ],
+      "quantity": 45,
+      "price": 150,
+      "description": "High quality test item.",
+      "item": "test item",
+      "createdAt": "2021-09-26T16:50:14.355Z",
+      "updatedAt": "2021-09-26T16:50:14.355Z"
+    },
+    {
+      "_id": "6150ed2e79fe312f1740d213",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c24",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c25",
+        "model": "gaming purple chair  v0",
+        "brand": "BSL"
+      },
+      "color": [
+        "Purple"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/06/6e/0a/066e0a5586cc15b88ee522d60db62d83.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 10,
+      "price": 1225000,
+      "description": "type of chair designed for the comfort of gamers and workers",
+      "item": "gaming chair",
+      "createdAt": "2021-09-26T21:59:10.557Z",
+      "updatedAt": "2021-09-26T21:59:10.557Z"
+    },
+    {
+      "_id": "6150ee3479fe312f1740d216",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c26",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c27",
+        "model": "gaming blue chair  v0",
+        "brand": "ZnMig"
+      },
+      "color": [
+        "Blue"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/6e/07/24/6e0724fa8da97e87e205d676582946bf.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 25,
+      "price": 900000,
+      "description": "ZnMig Ergonomic Gaming Chair Comfortable High-Back Racing Chair Pu Leather Bucket Seat,Computer Swivel Office Chair",
+      "item": "gaming chair",
+      "createdAt": "2021-09-26T22:03:32.830Z",
+      "updatedAt": "2021-09-26T22:03:32.830Z"
+    },
+    {
+      "_id": "615101737c9529cc97616107",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c28",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c29",
+        "model": "gaming red chair  v0",
+        "brand": "Warrior"
+      },
+      "color": [
+        "green"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/f4/17/dd/f417ddaa4c55ae873f0ec0333ee75c51.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 5,
+      "price": 1550000,
+      "description": "Gaming Racing Chair, Fs-RC036 Folded : Unfolded. Height Adjustable",
+      "item": "gaming chair",
+      "createdAt": "2021-09-26T23:25:39.652Z",
+      "updatedAt": "2021-09-26T23:25:39.652Z"
+    },
+    {
+      "_id": "615105157c9529cc9761610a",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c2a",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c2b",
+        "model": "gaming yellow chair  v0",
+        "brand": "Ares"
+      },
+      "color": [
+        "yellow"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/05/b5/ed/05b5edd1deffc8c9b265d1dd75387fc1.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 12,
+      "price": 1350000,
+      "description": "Multi-Functional Mechanism Office Gaming Chairs, Fs-RC035 Folded : Unfolded. Height Adjustable : Adjustable. Armrest : With Armrest. Material : Synthetic Leather",
+      "item": "gaming chair",
+      "createdAt": "2021-09-26T23:41:09.479Z",
+      "updatedAt": "2021-09-26T23:41:09.479Z"
+    },
+    {
+      "_id": "615105b87c9529cc9761610d",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c2c",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c2d",
+        "model": "gaming white chair  v0",
+        "brand": "Ares"
+      },
+      "color": [
+        "white"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/56/dd/d5/56ddd5a3eea576cfc3af52f2dea92f53.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 24,
+      "price": 2000000,
+      "description": "Office Racing Chair, Fs-RC027 Folded : Unfolded. Height Adjustable : Adjustable. Armrest : With Armrest. Material : Synthetic Leather.",
+      "item": "gaming chair",
+      "createdAt": "2021-09-26T23:43:52.578Z",
+      "updatedAt": "2021-09-26T23:43:52.578Z"
+    },
+    {
+      "_id": "615106d27c9529cc97616110",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c2e",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c2f",
+        "model": "gaming beige chair  v0",
+        "brand": "PU"
+      },
+      "color": [
+        "beige"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/b4/6f/1c/b46f1c869c9303e000a8077745a47b4a.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 5,
+      "price": 2500000,
+      "description": "Professional High Back Desk Ergonomic Sport Computer PU Gaming",
+      "item": "gaming chair",
+      "createdAt": "2021-09-26T23:48:34.314Z",
+      "updatedAt": "2021-09-26T23:48:34.314Z"
+    },
+    {
+      "_id": "61510a9b7c9529cc97616119",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c30",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c31",
+        "model": "gaming black and white  chair  v0",
+        "brand": "win"
+      },
+      "color": [
+        "black and white"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/fe/af/59/feaf5928afca3999604bd82480858eab.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 12,
+      "price": 1400000,
+      "description": "The Knight Series is the latest addition to the gaming chair collection made by Ewin. With its subtle design and different color option, it is a perfect gaming chair for any pc setup.",
+      "item": "gaming chair",
+      "createdAt": "2021-09-27T00:04:43.330Z",
+      "updatedAt": "2021-09-27T00:04:43.330Z"
+    },
+    {
+      "_id": "61510b247c9529cc9761611b",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c32",
+        "weight": 240,
+        "width": 44.5,
+        "height": 13.2,
+        "depth": 35.5
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c33",
+        "model": "gaming avengers  chair  v0",
+        "brand": "marvel"
+      },
+      "color": [
+        "blue and white"
+      ],
+      "images": [
+        "https://i.pinimg.com/564x/00/b8/b9/00b8b952a28c24b89d11b3868d395e39.jpg"
+      ],
+      "category": [
+        "chair"
+      ],
+      "quantity": 20,
+      "price": 2000000,
+      "description": "Captain America Superhero Ergonomic High-Back Swivel Racing Style Desk Home Office Executive Computer Video Gaming Chair ",
+      "item": "gaming chair",
+      "createdAt": "2021-09-27T00:07:00.649Z",
+      "updatedAt": "2021-09-27T00:07:00.649Z"
+    },
+    {
+      "_id": "61555c603e249ee98d6c5208",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c34",
+        "weight": 520,
+        "width": 320,
+        "height": 110,
+        "depth": 13
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c35",
+        "model": "PRO 2",
+        "brand": "ANNE"
+      },
+      "color": [
+        "Black"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/61NrWLtBXFL._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard",
+        "bestseller"
+      ],
+      "quantity": 12,
+      "price": 340000,
+      "description": "Minimalistic design doing more with less. Requires less hand movement while stillbeing able to access all the functionalities.",
+      "item": "ANNE PRO 2",
+      "createdAt": "2021-09-30T06:42:40.523Z",
+      "updatedAt": "2021-09-30T06:42:40.523Z"
+    },
+    {
+      "_id": "61555e283e249ee98d6c520d",
+      "shipping_details": {
+        "_id": "6155b221eff2ee099fe50c36",
+        "weight": 420,
+        "width": 220,
+        "height": 110,
+        "depth": 13
+      },
+      "manufacture_details": {
+        "_id": "6155b221eff2ee099fe50c37",
+        "model": "GK61",
+        "brand": "MechaGamer"
+      },
+      "color": [
+        "Black"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/81Kh117JK7L._AC_SL1500_.jpg"
+      ],
+      "category": [
+        "keyboard",
+        "bestseller"
+      ],
+      "quantity": 21,
+      "price": 230000,
+      "description": "Million Color combinations , multiple backlit mode ( Aurora, Ripple, Music, Rainbow , Waves, Gradient, Windmill, Spectrum and single light.",
+      "item": "MechaGamer GK61",
+      "createdAt": "2021-09-30T06:50:16.938Z",
+      "updatedAt": "2021-09-30T06:50:16.938Z"
+    }
+  ]

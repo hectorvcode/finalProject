@@ -2,6 +2,8 @@ import { Prop, raw, Schema, SchemaFactory } from "@nestjs/mongoose";
 import { Document } from 'mongoose';
 import { IManufactureDetails } from "../interfaces/manufacture_detail.interface";
 import { IShippingDetails } from "../interfaces/shipping_details.interface";
+import { ManufactureDetails, ManufactureDetailsSchema } from "./manufacture-details.schema";
+import { ShippingDetails, ShippingDetailsSchema } from "./shipping-details.schema";
 
 export type ProductDocument = Product & Document;
 
@@ -56,23 +58,11 @@ export class Product {
     })
     color: string[];
 
-    @Prop(
-        raw({
-            model: { type: String, required: true },
-            brand: { type: String, required: true }
-        })
-    )
-    manufacture_details: IManufactureDetails;
+    @Prop({ type:ManufactureDetailsSchema })
+    manufacture_details: ManufactureDetails;
 
-    @Prop(
-        raw({
-            weight: { type: Number, required: true },
-            width: { type: Number, required: true },
-            height: { type: Number, required: true },
-            depth: { type: Number, required: true }
-        })
-    )
-    shipping_details: IShippingDetails;
+    @Prop({ type:ShippingDetailsSchema })
+    shipping_details: ShippingDetails;
 }
 
 export const ProductSchema = SchemaFactory.createForClass(Product);
