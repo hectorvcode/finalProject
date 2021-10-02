@@ -1,7 +1,7 @@
 import { ApiProperty } from "@nestjs/swagger";
 import { Type } from "class-transformer";
 import { IsString } from "class-validator";
-import { IManufactureDetails } from "../interfaces/manufacture_detail.interface";
+import { IManufactureDetails } from "../models/manufacture_detail.interface";
 
 
 export class ManufactureDetailsDto implements IManufactureDetails {

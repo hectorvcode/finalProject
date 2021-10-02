@@ -1,7 +1,5 @@
-import { Prop, raw, Schema, SchemaFactory } from "@nestjs/mongoose";
+import { Prop, Schema, SchemaFactory } from "@nestjs/mongoose";
 import { Document } from 'mongoose';
-import { IManufactureDetails } from "../interfaces/manufacture_detail.interface";
-import { IShippingDetails } from "../interfaces/shipping_details.interface";
 import { ManufactureDetails, ManufactureDetailsSchema } from "./manufacture-details.schema";
 import { ShippingDetails, ShippingDetailsSchema } from "./shipping-details.schema";
 

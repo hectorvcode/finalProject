@@ -1,7 +1,7 @@
 import { ApiProperty } from "@nestjs/swagger";
 import { Type } from "class-transformer";
 import { IsNumber } from "class-validator";
-import { IShippingDetails } from "../interfaces/shipping_details.interface";
+import { IShippingDetails } from "../models/shipping_details.interface";
 
 export class ShippingDetailsDto implements IShippingDetails {
     

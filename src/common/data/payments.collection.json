@@ -2,7 +2,7 @@
     "paymentType":"credit",
     "paymentStatus":"verified",
     "creditCard":{
-        "type":"visa",
+        "ccNetwork":"visa",
         "lastFourNumbers":"1231",
         "expiryMonth":12,
         "expiryYear":2023,
