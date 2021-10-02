@@ -28,7 +28,7 @@ export class User {
     idCard: IdCard;
 
     @Prop({ type: String, required: true })
-    hashedPassword: string;
+    password: string;
 
     @Prop({ type:BillingAddressSchema })
     billingAddress: BillingAddress;

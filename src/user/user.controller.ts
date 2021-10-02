@@ -13,6 +13,8 @@ export class UserController {
     @ApiCreatedResponse({ description: 'The resource has been succesfully created' })
     @ApiForbiddenResponse({ description: 'Forbbiden' })
     async createUser(@Body() createUserDto: CreateUserDto){
+        // const queryUser = createUserDto.userEmail;
+        // console.log('This is the user email', queryUser);
         return await this.userService.createUser(createUserDto);
     }
 

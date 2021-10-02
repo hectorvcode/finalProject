@@ -9,7 +9,7 @@ export interface IUser extends Document {
     lastName:string;
     emailVerified:boolean;
     idCard:IIdCard;
-    hashedPasswod: string;
+    password: string;
     billingAddress: IBillingAddress;
     shippingAddress: IShippingAddress;
 }

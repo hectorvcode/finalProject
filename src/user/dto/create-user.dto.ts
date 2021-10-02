@@ -8,15 +8,15 @@ import { IdCardDto } from "./id-card.dto";
 export class CreateUserDto {
 
     @ApiProperty({ description: 'User Email'})
-    @IsString({ message: 'This must be a string 1', always:true })
+    @IsString({ message: 'This must be a string', always:true })
     userEmail: string;
 
     @ApiProperty({ description: 'User First Name'})
-    @IsString({ message: 'This must be a string 2', always:true })
+    @IsString({ message: 'This must be a string', always:true })
     firstName: string;
 
     @ApiProperty({ description: 'User Last Name'})
-    @IsString({ message: 'This must be a string 3', always:true })
+    @IsString({ message: 'This must be a string', always:true })
     lastName: string;
 
     @ApiProperty({ description: 'Email verified'})
@@ -28,8 +28,8 @@ export class CreateUserDto {
     idCard: IdCardDto;
 
     @ApiProperty({ description: 'User Hashed Password'})
-    @IsString({ message: 'This must be a string 4', always:true })
-    hashedPassword: string;
+    @IsString({ message: 'This must be a string', always:true })
+    password: string;
 
     @ApiProperty({ description: 'Billing Address'})
     @ValidateNested({ each:true })
